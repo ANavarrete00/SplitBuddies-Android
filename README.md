@@ -19,17 +19,15 @@
 To get a local copy up and running:
 
 ### Prerequisites
-- Android Studio (latest stable)
-- Firebase Project Setup
+- Third-party app installer. (Obtainium recommended)
+- Allow the app installer to install apps.
 
-### Installation
-1. Clone the repo:
-   ```terminal
-   git clone https://github.com/ANavarrete00/SplitBuddies
-2. Open the project in Android Studio
-3. Follow Firebase setup instructions and add you `google-services.json` to the `app/` directory
-4. Sync project with Gradle files
-5. Run the app on your emulator or Android device
+### Instructions
+1. Copy the [Spit Buddies repo](https://github.com/ANavarrete00/SplitBuddies-Android) link.
+2. In Obtainium, click the _Add_ button to add the a repo.
+3. Add the repo link you copied to the _App source URL_ box.
+4. Toggle the _Include prereleases_ button.
+5. Finish adding the repo and install the app.
 
 ---
 
